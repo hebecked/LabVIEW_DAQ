@@ -1,0 +1,2 @@
+LabVIEW based data acquisition for a HF2LI lock-in amplifier from Zurich Instruments and a CornerStone260 compatible monochromator.
+This is a very specific setup and probably only useful for people using this at DESY (Zeuthen). 
